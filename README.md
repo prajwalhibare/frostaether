@@ -1,4 +1,4 @@
-## Hi there, I'm Frost Aether.
+## Hi there, I'm Prajwal.
 # I am fluent in C, C++, SQL, Python, HTML
 
 <!--
